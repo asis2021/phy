@@ -14,5 +14,5 @@ def febo(n):
              first_num=sec_num
              sec_num=third_num
              print(third_num)
-nu=int(input("Enter a number:"))
+nu=int(10)
 febo(nu)
