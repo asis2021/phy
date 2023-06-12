@@ -8,7 +8,7 @@ def febo(n):
     elif n == 2:
         print(first_num,sec_num)
     else:
-         print(first_num, sec_num,end=' ')
+        # print(first_num, sec_num,end=' ')
          for i in range(n-2):
              third_num= first_num + sec_num
              first_num=sec_num
